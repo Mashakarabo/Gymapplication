@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Gymapplication/static/css/main.f898c29e.css",
+    "main.js": "/Gymapplication/static/js/main.c530cbe7.js",
+    "static/js/787.987f80c6.chunk.js": "/Gymapplication/static/js/787.987f80c6.chunk.js",
+    "static/media/cimatic.mp4": "/Gymapplication/static/media/cimatic.bd0d6ce4bb56a590c801.mp4",
+    "static/media/warmupgif.gif": "/Gymapplication/static/media/warmupgif.b921a99515174bf30238.gif",
+    "static/media/warmupgif2.gif": "/Gymapplication/static/media/warmupgif2.2664b9ccfaab560f3d0b.gif",
+    "static/media/warmupgif3.gif": "/Gymapplication/static/media/warmupgif3.74eb5b8e6a64332286e5.gif",
+    "static/media/workoutpic.png": "/Gymapplication/static/media/workoutpic.05a5bcca774e71d1a866.png",
+    "index.html": "/Gymapplication/index.html",
+    "main.f898c29e.css.map": "/Gymapplication/static/css/main.f898c29e.css.map",
+    "main.c530cbe7.js.map": "/Gymapplication/static/js/main.c530cbe7.js.map",
+    "787.987f80c6.chunk.js.map": "/Gymapplication/static/js/787.987f80c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f898c29e.css",
+    "static/js/main.c530cbe7.js"
+  ]
+}
