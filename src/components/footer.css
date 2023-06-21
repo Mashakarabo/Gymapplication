@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.Main{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.Quick-links li {
+    list-style: none;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.Quick-links li a{
+    text-decoration: none;
+    color: white;
+}
+
+.Quick-links li a:hover{
+    position: relative;
+    left: 10px;
+    color:white;
+}
+
+.Copyright p{
+    position: relative;
+    top: 45px;
+    left: 40px;
+}
+
+.Contact-details{
+    display: grid;
+    padding: 10px;
+}

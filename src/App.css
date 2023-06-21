@@ -1,0 +1,102 @@
+#section-1{
+    height: 500px;
+}
+
+#section-1 video{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.content{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: white;
+}
+
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 99%;
+    background-color: rgba(0, 0, 0, .4);
+}
+
+#section-2{
+    height: 700px;
+}
+
+.Warmup-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    position: relative;
+    top: 100px;
+
+}
+
+.warmup-content{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+    font-size: x-large;
+    font-family: cursive;
+    font-weight: lighter;
+    position: relative;
+    top: 40px;
+
+}
+
+#section-3{
+
+    height: 700px;
+    background-color: blanchedalmond;
+
+}
+
+.workout-content{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 100px;
+}
+
+#section-4{
+
+    height: 600px;
+    background-color: burlywood;
+
+}
+
+.Meals-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+#warmupheading{
+    color: black;
+}
+
+button{
+    padding: 10px;
+    background-color: lime;
+    color: black;
+    border: none;
+    box-shadow: 3px 3px 3px black;
+
+}
+
+button:hover{
+    box-shadow: 3px 3px 3px red;
+    position: relative;
+    left: 10px;
+}
